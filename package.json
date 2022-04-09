@@ -1,0 +1,13 @@
+{
+  "name": "@pfmagazin/code",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "index.js",
+  "bin": {
+    "first": "bin/first.js"
+  },
+  "dependencies": {
+    "eslint": "^8.12.0",
+    "jest": "^27.5.1"
+  }
+}
